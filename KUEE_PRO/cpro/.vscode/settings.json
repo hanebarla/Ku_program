@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\MinGW\\bin;${env:PATH}"
+    },
+    "editor.formatOnType": true,
+    "editor.renderControlCharacters": true,
+    "editor.detectIndentation": false,
+    "editor.renderWhitespace": "boundary",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
